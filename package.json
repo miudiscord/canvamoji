@@ -1,5 +1,5 @@
 {
-  "name": "canvamoji",
+  "name": "@gardenabot/canvamoji",
   "version": "1.2.1",
   "description": "node-canvas with support for discord and twitter based unicode emoji's",
   "main": "index.js",
